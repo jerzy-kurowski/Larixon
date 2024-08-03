@@ -1,6 +1,6 @@
 # Larixon
 
-Welcome to the Larixon! This application is designed to help you manage bets easily and efficiently.
+Welcome to the Larixon! This application is designed to view and place adverts.
 
 ## Getting Started
 
