@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=larixon
+POSTGRES_USER=bhPYsyHvfqumeuNzHSEPWSmfMdjItrKn
+POSTGRES_PASSWORD=GOIBnlvHPwVySrUymY31GhyLNeKr4dUjEtUuDllhuMrpKU189Z66BiTuFF7QwLhz
